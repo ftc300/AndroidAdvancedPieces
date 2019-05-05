@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAdvancedPieces.iml" filepath="$PROJECT_DIR$/AndroidAdvancedPieces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-eventbus/custom-eventbus.iml" filepath="$PROJECT_DIR$/custom-eventbus/custom-eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-proxy/custom-proxy.iml" filepath="$PROJECT_DIR$/custom-proxy/custom-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hugo-example/hugo-example.iml" filepath="$PROJECT_DIR$/hugo-example/hugo-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treeview/treeview.iml" filepath="$PROJECT_DIR$/treeview/treeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unit-test/unit-test.iml" filepath="$PROJECT_DIR$/unit-test/unit-test.iml" />
+    </modules>
+  </component>
+</project>
